@@ -6,6 +6,7 @@ features:
 3. High score
 
 📝the available colors are:
+[EVERY BASIC COLOR] + plus specific ones like:
 . aliceblue
 . antiquewhite
 . aqua
